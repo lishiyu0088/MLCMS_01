@@ -1,0 +1,1 @@
+This folder includes generators of grid maps and map files
