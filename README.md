@@ -19,9 +19,9 @@ From the table below, you can see the available options.
 | Circular Pedestrians  | 03            |
 | Chicken Test          | chicken       |
 | bottleneck            | bottleneck    |
-| RIMEA Test #1         | 1             |
-| RIMEA Test #4         | 4             |
-| RIMEA Test #6         | 6             |
-| RIMEA Test #7         | 7             |
+| RIMEA Test #1         | rimea1        |
+| RIMEA Test #4         | rimea4        |
+| RIMEA Test #6         | rimea6        |
+| RIMEA Test #7         | rimea7        |
 
 ***
