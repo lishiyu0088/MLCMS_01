@@ -23,5 +23,6 @@ From the table below, you can see the available options.
 | RIMEA Test #4         | rimea4        |
 | RIMEA Test #6         | rimea6        |
 | RIMEA Test #7         | rimea7        |
+| TUM Test              | tum           |
 
 ***
